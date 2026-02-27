@@ -1,7 +1,7 @@
-<!-- Senior Mobile App Developer Profile - imrun -->
+<!-- Senior Mobile + AI Engineer Profile - imrun -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Ranjan+Sitikhu;Senior+Mobile+Application+Developer;Android+%7C+iOS+%7C+Kotlin+%7C+Swift;Clean+Architecture+%7C+Scalable+Systems+%7C+App+Store+Delivery" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Ranjan+Sitikhu;Senior+Mobile+%26+AI+Application+Developer;Android+%7C+iOS+%7C+Kotlin+%7C+Swift;AI+Automation+%7C+LLM+Integration+%7C+Apple+Intelligence+%7C+Gemini" />
 </p>
 
 <p align="center">
@@ -16,27 +16,41 @@
 
 ---
 
-# 👋 Senior Mobile Application Developer
+# 👋 Senior Mobile & AI Application Developer
 
 📍 Hayes, London  
-📱 7+ Years in Production Mobile Engineering  
-🚀 Architecting and delivering scalable Android & iOS applications  
+📱 5+ Years in Production Mobile Engineering  
+🤖 AI-Enhanced App Architect  
 
-I design and build **high-performance, maintainable, and scalable mobile applications** used in real-world production environments.  
-Experienced across the full lifecycle: architecture → development → CI/CD → store release → maintenance → scaling.
+I architect and deliver **scalable, production-ready mobile applications** integrated with modern AI systems.  
+Specializing in **LLM-powered features, automation workflows, and intelligent mobile experiences**.
 
 ---
 
-## 🏗 Core Expertise
+## 🧠 AI & Automation Expertise
 
-- Mobile Architecture (MVVM, Clean Architecture)
-- Native Android (Kotlin) & iOS (Swift)
-- Performance Optimization & Memory Management
-- REST API Integration & Backend Coordination
-- App Store & Play Store Deployment
-- CI/CD Pipelines
-- Code Reviews & Technical Mentorship
-- Security Best Practices & App Hardening
+- ChatGPT / OpenAI API Integration
+- Gemini API Integration
+- Apple Intelligence (on-device AI capabilities)
+- AI-powered mobile features (chat, summarization, assistants)
+- Prompt Engineering for mobile apps
+- AI-driven workflow automation
+- Intelligent UX using generative AI
+- RESTful AI API orchestration
+- Secure token handling & rate limiting
+- Edge + Cloud AI integration strategies
+
+---
+
+## 🏗 Core Mobile Architecture
+
+- Clean Architecture / MVVM
+- Kotlin (Android) / Swift (iOS)
+- Modularized scalable codebases
+- CI/CD pipelines
+- Performance optimization & memory management
+- App Store & Play Store release management
+- Security & mobile app hardening
 
 ---
 
@@ -45,6 +59,14 @@ Experienced across the full lifecycle: architecture → development → CI/CD �
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,java,git,github,firebase,postgres,mysql,php,wordpress&perline=6" />
 </p>
+
+**AI & Cloud Tools**
+- OpenAI / ChatGPT
+- Google Gemini
+- Apple Intelligence
+- Firebase
+- REST APIs
+- Automation Systems
 
 ---
 
@@ -79,11 +101,11 @@ Experienced across the full lifecycle: architecture → development → CI/CD �
 
 ## 💼 Professional Focus
 
-✔ Building scalable mobile systems  
-✔ Writing clean, testable, maintainable code  
-✔ Improving app performance & crash-free rates  
-✔ Leading technical decisions  
-✔ Delivering business-driven mobile solutions  
+✔ Building AI-powered mobile products  
+✔ Architecting scalable, intelligent app systems  
+✔ Automating workflows using LLMs  
+✔ Delivering business-driven AI solutions  
+✔ Writing clean, maintainable, future-proof code  
 
 ---
 
@@ -94,4 +116,5 @@ Experienced across the full lifecycle: architecture → development → CI/CD �
 
 ---
 
-⭐ Senior Engineer Mindset — Build for scale. Design for maintainability. Deliver with impact.
+⭐ Senior Engineer Mindset  
+🚀 AI-Driven Mobile Innovation  
