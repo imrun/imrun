@@ -1,13 +1,7 @@
-<!-- Premium GitHub Profile README for: imrun -->
+<!-- Senior Mobile App Developer Profile - imrun -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-</p>
-
-<p align="center">
-  <a href="https://ranjansitikhu.com.np/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=900&lines=Ranjan+Sitikhu;Native+Mobile+Application+Developer;Android+%7C+iOS+%7C+Kotlin+%7C+Swift;Building+fast%2C+clean%2C+reliable+apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Ranjan+Sitikhu;Senior+Mobile+Application+Developer;Android+%7C+iOS+%7C+Kotlin+%7C+Swift;Clean+Architecture+%7C+Scalable+Systems+%7C+App+Store+Delivery" />
 </p>
 
 <p align="center">
@@ -17,37 +11,44 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imrun&label=Profile%20Views&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imrun&label=Profile%20Views&style=flat" />
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 Senior Mobile Application Developer
 
 📍 Hayes, London  
-📱 Native Mobile Application Developer (Android & iOS)  
-🧠 Kotlin • Swift • Clean Architecture • REST APIs • Performance Optimization  
-🚀 5+ years building and shipping production-ready apps
+📱 7+ Years in Production Mobile Engineering  
+🚀 Architecting and delivering scalable Android & iOS applications  
+
+I design and build **high-performance, maintainable, and scalable mobile applications** used in real-world production environments.  
+Experienced across the full lifecycle: architecture → development → CI/CD → store release → maintenance → scaling.
 
 ---
 
-## 🧰 Tech Stack
+## 🏗 Core Expertise
+
+- Mobile Architecture (MVVM, Clean Architecture)
+- Native Android (Kotlin) & iOS (Swift)
+- Performance Optimization & Memory Management
+- REST API Integration & Backend Coordination
+- App Store & Play Store Deployment
+- CI/CD Pipelines
+- Code Reviews & Technical Mentorship
+- Security Best Practices & App Hardening
+
+---
+
+## 🧰 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,java,github,git,firebase,postgres,mysql,php,wordpress&perline=6" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,java,git,github,firebase,postgres,mysql,php,wordpress&perline=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imrun&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
-</p>
-
----
-
-## 📊 Stats
+## 📊 Engineering Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=imrun&show_icons=true&rank_icon=github&include_all_commits=true" />
@@ -55,32 +56,42 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imrun" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=imrun" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrun" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imrun" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imrun/imrun/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/imrun/imrun/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📌 Featured
+## 💼 Professional Focus
 
-- 🌐 Portfolio: https://ranjansitikhu.com.np/
-- 📫 Contact: rs.sitikhu@gmail.com
+✔ Building scalable mobile systems  
+✔ Writing clean, testable, maintainable code  
+✔ Improving app performance & crash-free rates  
+✔ Leading technical decisions  
+✔ Delivering business-driven mobile solutions  
 
 ---
 
-⭐ Always learning. Always building.
+## 📌 Portfolio & Contact
+
+🌐 https://ranjansitikhu.com.np/  
+📫 rs.sitikhu@gmail.com  
+
+---
+
+⭐ Senior Engineer Mindset — Build for scale. Design for maintainability. Deliver with impact.
